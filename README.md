@@ -11,7 +11,10 @@ telegram bot. Also collected information on the use
 given bot.
 The manual is intended for teachers and students
 ---------------------------------------------------------------------------------------------------------------------
-FINAL.pdf
+
+Main code: 12.py
+
+Manual: FINAL.pdf
 _____________________________________________________________________________________________________________________
 
 Email: artem1yasinskiy@inbox.ru
