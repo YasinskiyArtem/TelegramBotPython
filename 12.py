@@ -33,7 +33,7 @@ import time
 # ____________________________________________________________________________________ #
 pp = pprint.PrettyPrinter(indent=4)
 SCOPES = ['https://www.googleapis.com/auth/drive']
-SERVICE_ACCOUNT_FILE = 'C:/Users/artem\PycharmProjects/untitled6/round-music-314016-2aa4ff2bd404.json'
+SERVICE_ACCOUNT_FILE = ''
 credentials = service_account.Credentials.from_service_account_file(
         SERVICE_ACCOUNT_FILE, scopes=SCOPES)
 
